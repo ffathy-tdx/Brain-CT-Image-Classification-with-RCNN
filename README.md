@@ -27,8 +27,13 @@ This project aims to classify medical images into different categories using a C
 The dataset comprises Brain CT images with corresponding labels indicating either "Hemorrhage" or "Normal" conditions. The dataset is not provided in this repository, but users can substitute it with their own medical imaging dataset.
 
 Structure
+
 main_script.py: The main script containing the code for data preprocessing, model construction, training, and evaluation.
+
 data/: Placeholder for the dataset directory. Users need to organize their dataset in this directory with appropriate subfolders.
+
 results/: Placeholder for storing model training visualizations and evaluation metrics.
+
 Results
+
 The model's performance metrics, including accuracy and loss, are visualized during and after the training process. Sample predictions with corresponding images are also displayed.
